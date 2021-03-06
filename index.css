@@ -6,7 +6,21 @@ body {
 }
 
 h1 {
-  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+  font-family: calibri;
+  font-style: italic;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: 5px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+}
+
+h6 {
   font-weight: normal;
   margin-top: 5px;
   font-family: calibri;
