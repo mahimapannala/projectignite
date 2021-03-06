@@ -10,13 +10,15 @@ h1 {
   font-weight: normal;
   margin-top: 5px;
   font-family: calibri;
+  font-style: italic;
 }
 
 
 p {
   font-family: verdana;
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
+  text-align: center;
 }
 
 table, th, td {
