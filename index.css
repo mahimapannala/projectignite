@@ -11,6 +11,7 @@ h1 {
   font-family: calibri;
   font-style: italic;
   text-align: center;
+  color: red;
 }
 
 h2 {
@@ -18,6 +19,7 @@ h2 {
   margin-top: 5px;
   font-family: "Times New Roman", Times, serif;
   font-style: oblique;
+  color: green;
 }
 
 h6 {
