@@ -9,7 +9,7 @@ h1 {
   font-weight: normal;
   margin-top: 5px;
   font-family: calibri;
-  font-style: italic;
+  font-style: normal;
   text-align: center;
   color: red;
 }
@@ -32,11 +32,11 @@ h6 {
 
 p {
   font-family: verdana;
-  font-size: 20px;
   font-weight: normal;
   text-align: center;
 }
 
 table, th, td {
   border: 1px solid black;
+  font-size: 20px;
 }
